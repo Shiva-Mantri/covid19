@@ -8,3 +8,7 @@ All research and data related to covid 19
 
 ## Models/Projections
 * Youyang Gu - https://covid19-projections.com/
+* Other recommended models: https://youyanggu.com/blog/six-months-later
+
+## Compiled Articles
+* https://ig.ft.com/coronavirus-global-data/?s=03
